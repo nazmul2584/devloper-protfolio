@@ -40,4 +40,30 @@ h1
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
 }
+.background{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.sado{
+    box-shadow: 10px 10px 40px gray;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+#fullstack{
+    border-left: solid 7px;
+    border-image: linear-gradient(blue, cyan );
+    border-image-slice: 6;
+}
+#babyweb{
+    border-left: solid 7px;
+    border-image: linear-gradient(rgb(226, 77, 7), rgb(179, 209, 5) );
+    border-image-slice: 6;
+}
+footer p{
+    text-align: center;
+}
+
 
